@@ -35,6 +35,5 @@ The CSS code separates the website into three sections: a green-themed left sect
 I would like to express my sincere gratitude to Codsoft for providing me with the opportunity to work on this project as part of my internship. The guidance and support from the Codsoft team were invaluable in helping me develop my skills and gain practical experience in web development. 
 
 **output:**
-
-[demo](https://github.com/Gangasravani12/codsoft/assets/132571179/26d54612-1d9b-44af-a6d0-27101ef098aa)
+[demo](https://drive.google.com/file/d/1C-W9EwnvfxjjHZ-57vit49W3krIvZjVd/view?usp=drivesdk)
 
