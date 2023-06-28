@@ -90,7 +90,8 @@ Overall, the code represents a basic structure for a portfolio website and can b
 
 **OUTPUT**
        [DEMO](https://drive.google.com/file/d/1Cmwu3oLM3lAhGlS1xFWS5rsUaTcG7GgD/view?usp=drivesdk)
-       [sample output](https://drive.google.com/file/d/1CoOIScsIx1B0RIndivywhFtj_YKNHew8/view?usp=drivesdk)
+       
+       [sample](https://drive.google.com/file/d/1CoOIScsIx1B0RIndivywhFtj_YKNHew8/view?usp=drivesdk)
 
 
 
