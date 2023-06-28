@@ -38,7 +38,7 @@ I would like to express my sincere gratitude to Codsoft for providing me with th
 [demo](https://drive.google.com/file/d/1C-W9EwnvfxjjHZ-57vit49W3krIvZjVd/view?usp=drivesdk)
 
 
-#PORTFOLIO
+**PORTFOLIO**
 
                                                       
   The provided code appears to be an HTML document that represents a portfolio website. It includes sections such as navigation, header, about, skills, projects, and contact. Here's a breakdown of the different sections and their corresponding elements:
@@ -90,7 +90,6 @@ Overall, the code represents a basic structure for a portfolio website and can b
 
 **OUTPUT**
        [DEMO](https://drive.google.com/file/d/1Cmwu3oLM3lAhGlS1xFWS5rsUaTcG7GgD/view?usp=drivesdk)
-       
        [sample output](https://drive.google.com/file/d/1CoOIScsIx1B0RIndivywhFtj_YKNHew8/view?usp=drivesdk)
 
 
