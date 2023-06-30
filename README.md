@@ -35,7 +35,10 @@ The CSS code separates the website into three sections: a green-themed left sect
 I would like to express my sincere gratitude to Codsoft for providing me with the opportunity to work on this project as part of my internship. The guidance and support from the Codsoft team were invaluable in helping me develop my skills and gain practical experience in web development. 
 
 **output:**
+
 [demo](https://drive.google.com/file/d/1C-W9EwnvfxjjHZ-57vit49W3krIvZjVd/view?usp=drivesdk)
+
+
 
 
 **PORTFOLIO**
@@ -91,6 +94,8 @@ Overall, the code represents a basic structure for a portfolio website and can b
 **OUTPUT**
        [DEMO](https://drive.google.com/file/d/1Cmwu3oLM3lAhGlS1xFWS5rsUaTcG7GgD/view?usp=drivesdk)
        [sample](https://drive.google.com/file/d/1CoOIScsIx1B0RIndivywhFtj_YKNHew8/view?usp=drivesdk)
+
+
 
 
 
